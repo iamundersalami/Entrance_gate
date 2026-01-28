@@ -1,0 +1,9 @@
+S- switch on remote controller
+L1- 3-position limit switch (position open NO)
+L2- 3-position limit switch (position open NC)
+M1- single-phase motor M (Left rotating, opening)
+M2- single-phase motor M (Right rotating, closing)
+Mmr1- memory cell 1
+Mmr2- memory cell 2
+Ctu- counter
+T- timer (not in use)
